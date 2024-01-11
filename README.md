@@ -1,4 +1,4 @@
-# Automated tests 
+# Automated Tests 
 For automatic testing I used Javascript and Cypress.
 Below are the descriptions of each test performed by me.
 ---------------------------------------
